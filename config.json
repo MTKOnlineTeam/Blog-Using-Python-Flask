@@ -1,0 +1,23 @@
+{
+  "params" :
+
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/python01",
+    "prod_uri": "mysql://root:@localhost/python01",
+    "fb_url": "https://facebook.com",
+    "tw_url": "https://www.twitter.com",
+    "gh_url": "https://www.github.com",
+    "blog_name": "Blogger Gairik",
+    "gmail-user" : "example@gmail.com",
+    "gmail-password" : "#",
+    "no_of_posts" : 3,
+    "login_image" : "login.svg",
+    "admin_user" : "Gairik",
+    "admin_password" : "Admin",
+    "upload_location" : "c:\\Users\\HOME\\PycharmProjects\\static"
+  }
+
+
+
+}
